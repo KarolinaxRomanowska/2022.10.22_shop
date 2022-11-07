@@ -47,9 +47,9 @@ public class Engine {
                         System.out.println("Brak dostępu");
                         break;
                     }
-                /*default:
+                default:
                     System.out.println("Wrong choose !!");
-                    break;*/
+                    break;
             }
         }
 
